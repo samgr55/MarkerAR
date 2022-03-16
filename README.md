@@ -3,4 +3,4 @@ Testing AR on Web Browser
 ALPHA VERSION
 
 # Usage
- visit <a href="samgr55.github.io/MarkerAR/" > and allow the camera to detect the Marker
+ <a href="samgr55.github.io/MarkerAR/" > visit the website and allow the camera to detect the Marker
